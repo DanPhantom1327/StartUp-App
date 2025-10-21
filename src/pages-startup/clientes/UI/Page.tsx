@@ -12,7 +12,7 @@ const clientes = [
 export default function ClientesPage() {
   return (
     <section className="mt-16 px-6">
-      <h1 className="text-3xl md:text-4xl font-extrabold text-center mb-10 text-gray-900">
+      <h1 className="text-3xl md:text-4xl font-extrabold text-center mb-10 text-blue-400">
         Nuestros Clientes 🤝
       </h1>
 
