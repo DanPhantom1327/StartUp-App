@@ -1,10 +1,15 @@
 export default function HomePage() {
   return (
-    <div className="text-center mt-20">
-      <h1 className="text-4xl font-bold mb-4">Bienvenido a StartUp App 🚀</h1>
-      <p className="text-lg text-gray-600">
-        Somos StartUp-App, una App hecha para ti pensando en tu futuro 🌎
+    <section className="text-center mt-20 px-6">
+      <h1 className="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">
+        Bienvenido a <span className="text-green-500">StartUp App 🚀</span>
+      </h1>
+      <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+        Una plataforma moderna, rápida y diseñada para crecer contigo 🌎.  
+        Empieza a construir tu idea hoy 🧠.
       </p>
-    </div>
+    </section>
   );
 }
+
+
