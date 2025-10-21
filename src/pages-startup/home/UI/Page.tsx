@@ -4,7 +4,7 @@ export default function HomePage() {
       <h1 className="text-4xl md:text-5xl font-extrabold text-gray-400 mb-4">
         Bienvenido a <span className="text-green-500">StartUp App 🚀</span>
       </h1>
-      <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
+      <p className="text-lg md:text-xl text-white-600 max-w-2xl mx-auto">
         Una plataforma moderna, rápida y diseñada para crecer contigo 🌎.  
         Empieza a construir tu idea hoy 🧠.
       </p>
